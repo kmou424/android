@@ -5,6 +5,10 @@
            fetch="https://github.com/exthmui"
            revision="refs/heads/exthm-9" />
 
+  <remote  name="kmou424"
+           fetch="https://github.com/kmou424"
+           revision="refs/heads/exthm-9" />
+
   <!-- Frameworks -->
   <project path="frameworks/base" name="android_frameworks_base" remote="exthm" />
   
